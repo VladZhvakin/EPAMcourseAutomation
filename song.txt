@@ -2,3 +2,6 @@
 Первая версия
 Second string 
 on the web
+
+Third string
+Git-gui
